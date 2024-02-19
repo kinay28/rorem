@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
